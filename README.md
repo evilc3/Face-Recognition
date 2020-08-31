@@ -1,4 +1,10 @@
-# Face-Recognition
+# Face-Recognition DataFlow 
+![alt text](flowchart.png)
+
+
+
+
+# Face-Recognition Usage 
 <pre>
 
 download the openface_nn4.small2.v1.t7 and paste it in the models folder
